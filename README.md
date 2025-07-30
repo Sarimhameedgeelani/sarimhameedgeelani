@@ -15,7 +15,7 @@
 
 <!-- Typing Animation Heading -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarim+Hameed;Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarim+Hameed;+" alt="Typing SVG" />
 </h3>
 
 <!-- Profile Views Counter -->
@@ -78,6 +78,15 @@
   </a>
 </p>
 
+<!-- Projects Showcase -->
+<h3 align="left">📂 Featured Projects:</h3>
+<ul>
+  <li>📊 <strong>Sales Dashboard</strong> using Excel & Power BI</li>
+  <li>📈 <strong>Customer Segmentation</strong> using K-Means Clustering</li>
+  <li>📉 <strong>Exploratory Data Analysis</strong> on COVID Dataset</li>
+</ul>
+
+<!-- Footer -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <p><em>“Code is like humor. When you have to explain it, it’s bad.”</em></p>
