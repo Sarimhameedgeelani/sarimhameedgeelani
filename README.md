@@ -53,9 +53,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameed-code&layout=compact&theme=radical" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameed-code&langs_count=10&theme=radical&layout=donut" alt="Most Used Languages Donut"/>
-  <br>
-  
+
 </p>
 
 <!-- Quote Card -->
