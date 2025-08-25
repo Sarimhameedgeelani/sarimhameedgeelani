@@ -2,7 +2,7 @@
 
 <!-- Center Align Social Badges -->
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/sarimhameed" target="_blank">
+    <a href="https://www.linkedin.com/in/sarim-syed-9b31a02bb " target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:sarimgeelani24@gmail.com" target="_blank">
