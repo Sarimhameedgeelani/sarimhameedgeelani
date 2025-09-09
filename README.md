@@ -42,6 +42,25 @@
   </a>
 </p>
 
+---
+
+### 🌐 My Profiles
+<p align="center">
+  <a href="https://share.streamlit.io/user/sarimhameed-code" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/sarimhameed" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sarimhameed" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/sarimhameed" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ### 🚀 Languages & Tools
 <p align="center">
@@ -75,6 +94,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarimhameed-code&theme=react-dark"/>
 </p>
 
+---
 
 ### 📂 Featured Projects
 - 📊 **Sales Dashboard** (Excel & Power BI)  
