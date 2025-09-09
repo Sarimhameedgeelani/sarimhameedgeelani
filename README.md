@@ -43,7 +43,22 @@
 </p>
 
 ---
+---
 
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarimhameed" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+  </a>
+  <a href="mailto:sarimgeelani24@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/sarim______geelani" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/>
+  </a>
+</p>
+
+---
 ### 🌐 My Profiles
 <p align="center">
   <a href="https://share.streamlit.io/user/sarimhameed-code" target="_blank">
@@ -106,28 +121,6 @@
 ### 🧠 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 😂 Random Dev Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical"/>
-</p>
-
----
-
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarimhameed" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
-  <a href="mailto:sarimgeelani24@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/sarim______geelani" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/>
-  </a>
 </p>
 
 ---
