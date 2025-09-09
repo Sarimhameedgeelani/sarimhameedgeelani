@@ -35,6 +35,14 @@
 
 ---
 
+### 📄 My Resume
+<p align="center">
+  <a href="https://github.com/sarimhameed-code/sarimhameed-code/blob/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+</p>
+
+
 ### 🚀 Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
