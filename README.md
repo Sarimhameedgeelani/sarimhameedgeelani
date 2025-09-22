@@ -1,131 +1,100 @@
-<!-- 🌟 Sarim's GitHub Profile README 🌟 -->
+<!-- ======================================================= -->
+<!--          S A R I M   H A M E E D   G E E L A N I         -->
+<!--      Fully-working README (no tokens / workflows)        -->
+<!-- ======================================================= -->
 
-<!-- Badges Section -->
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/sarim-syed-9b31a02bb" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:sarimgeelani24@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-sarimgeelani24@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/sarim______geelani" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-Follow--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-</div>
+<!-- Hero Gradient Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20%F0%9F%91%8B%20I'm%20Sarim!&fontColor=ffffff&fontAlignY=40&color=gradient&customColorList=0,6,24,18,14,10" />
 
-<!-- Typing Animation -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarim+Hameed;Data+Analytics+Enthusiast;Aspiring+Data+Scientist;Lifelong+Learner" alt="Typing SVG"/>
-</h2>
-
-<!-- Profile Views -->
+<!-- Animated Headline -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sarimhameed-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=37F7FB&center=true&vCenter=true&width=550&lines=Data+Analytics+Enthusiast.;Aspiring+Data+Scientist.;Turning+numbers+into+stories." alt="Typing SVG" />
 </p>
 
----
-
-### 👨‍💻 About Me  
-- 🌟 Currently learning **Data Analytics & Visualization**  
-- 🤝 Looking to collaborate on **Open Data Projects and Dashboards**  
-- 📍 Location: **Baramulla, Kashmir**  
-- 🗂️ Portfolio **coming soon!**  
-- 📫 Reach me at: **sarimgeelani24@gmail.com**  
-- ✨ Fun fact: *I love solving real-life problems using data!*  
-
----
-
-### 📄 My Resume
+<!-- Social / Contact -->
 <p align="center">
-  <a href="https://github.com/sarimhameed-code/sarimhameed-code/blob/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sarim-syed-9b31a02bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
----
----
-
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarimhameed" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
-  <a href="mailto:sarimgeelani24@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
+  <a href="mailto:sarimgeelani24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sarimgeelani24@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/sarim______geelani" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-@sarim______geelani-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sarimhameedgeelani&style=for-the-badge&color=brightgreen" alt="profile views"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 📍 **Baramulla, Kashmir**  
+- 🌟 Currently diving deep into **Data Analytics & Visualization**  
+- 🤝 Looking to collaborate on **open-data dashboards & EDA projects**  
+- 🗂️ Portfolio: *coming soon*  
+- ✨ Fun fact: I treat messy CSVs like escape-room puzzles!  
+
+---
+
+## 📜 Resume
+<p align="center">
+  <a href="https://github.com/sarimhameedgeelani/sarimhameedgeelani/blob/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9C%20View%20My%20Resume-0A66C2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
 
 ---
-### 🌐 My Profiles
+
+## 🚀 Languages & Tools
 <p align="center">
-  <a href="https://share.streamlit.io/user/sarimhameed-code" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/sarimhameed" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/sarimhameed" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/sarimhameed" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sql,excel,powerbi,tableau&perline=8" />
 </p>
 
 ---
 
-### 🚀 Languages & Tools
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-34A4EB?style=for-the-badge&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarimhameedgeelani&show_icons=true&theme=radical&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameedgeelani&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarimhameed-code&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarimhameedgeelani&theme=onedark&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarimhameed-code&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameed-code&layout=compact&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarimhameedgeelani&theme=react-dark&area=true&radius=10" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarimhameed-code&theme=react-dark"/>
-</p>
+## 📂 Featured Projects
+| 📊 Project | 🧰 Stack | 🔗 Link |
+|-----------|---------|--------|
+| Sales Dashboard | Excel, Power BI | *(coming soon)* |
+| Customer Segmentation | Python, Pandas, Scikit-learn | *(coming soon)* |
+| COVID-19 EDA | Python, Seaborn | *(coming soon)* |
 
 ---
 
-### 📂 Featured Projects
-- 📊 **Sales Dashboard** (Excel & Power BI)  
-- 📈 **Customer Segmentation** (K-Means Clustering)  
-- 📉 **Exploratory Data Analysis** on COVID Dataset  
-
----
-
-### 🧠 Random Dev Quote
+## 🧠 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
   <p><em>“Code is like humor. When you have to explain it, it’s bad.”</em></p>
 </div>
+
+<!-- Gradient Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&color=gradient"/>
